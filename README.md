@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gisman
-- 👀 I’m interested in data curation, public data, geocoding, GIS, data quality
-- 🌱 I’m currently learning data curation
-- 💞️ I’m looking to collaborate on data curating software
+- 👀 I’m interested in public data, data curation, data quality management
 - 📫 How to reach me: I live in Seoul Korea, email me gisman@gmail.com
 
 <!---
